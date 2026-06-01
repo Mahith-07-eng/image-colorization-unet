@@ -1,7 +1,7 @@
-tensorflow
+tensorflow==2.19.0
 opencv-python-headless
 numpy
+matplotlib
+tensorflow-datasets
 pillow
-streamlit 
-
-# run     pip install -r requirements.txt
+streamlit
