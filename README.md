@@ -136,7 +136,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶ Usage
+##  Usage
 
 ### Option 1: Run Locally
 
