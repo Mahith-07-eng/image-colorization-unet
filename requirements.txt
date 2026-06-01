@@ -1,0 +1,9 @@
+tensorflow
+opencv-python
+numpy
+matplotlib
+tensorflow-datasets
+pillow
+streamlit 
+
+# run     pip install -r requirements.txt
